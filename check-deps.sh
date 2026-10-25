@@ -6,7 +6,7 @@ set -u
 
 # --- Dependency lists (edit these) -------------------------------------------
 # Programs that must be on PATH
-REQUIRED_COMMANDS=(fish eza zoxide bat fzf fastfetch)
+REQUIRED_COMMANDS=(fish eza zoxide bat fzf fastfetch starship)
 
 # Programs that are nice to have but not essential
 OPTIONAL_COMMANDS=(tldr pkgfile)
